@@ -6,3 +6,9 @@ Primer commit del proyecto con lo que se había logrado avanzar del flujo jugado
 
 # Link Ionic DOCS
 https://ionicframework.com/docs/
+
+# RECORDATORIO 
+Al descargar el proyecto de git
+en el terminal se debe poner:
+1- npm install
+2- ng serve...
